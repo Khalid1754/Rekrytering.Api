@@ -1,0 +1,30 @@
+﻿@model Rekrytering.Web.Models.KandidatViewModel
+
+@{
+    ViewData["Title"] = "Skapa Kandidat";
+}
+
+<h2>Skapa Kandidat</h2>
+
+<form asp-action="Skapa" method="post">
+    <div class="mb-3">
+        <label asp-for="Namn" class="form-label"></label>
+        <input asp-for="Namn" class="form-control" />
+        <span asp-validation-for="Namn" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Email" class="form-label"></label>
+        <input asp-for="Email" class="form-control" />
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Kompetens" class="form-label"></label>
+        <input asp-for="Kompetens" class="form-control" />
+        <span asp-validation-for="Kompetens" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-success">Spara</button>
+    <a asp-action="Index" class="btn btn-secondary">Tillbaka</a>
+</form>

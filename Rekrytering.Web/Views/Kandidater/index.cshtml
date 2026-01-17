@@ -1,0 +1,31 @@
+﻿@model IEnumerable<Rekrytering.Web.Models.KandidatViewModel>
+
+@{
+    ViewData["Title"] = "Kandidater";
+}
+
+<h2>Kandidater</h2>
+
+<a class="btn btn-primary" asp-action="Skapa">Skapa ny kandidat</a>
+
+<table class="table table-striped mt-3">
+    <thead>
+        <tr>
+            <th>Namn</th>
+            <th>Email</th>
+            <th>Kompetens</th>
+            <th>Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var k in Model)
+        {
+            <tr>
+                <td>@k.Namn</td>
+                <td>@k.Email</td>
+                <td>@k.Kompetens</td>
+                <td>@k.Status</td>
+            </tr>
+        }
+    </tbody>
+</table>
