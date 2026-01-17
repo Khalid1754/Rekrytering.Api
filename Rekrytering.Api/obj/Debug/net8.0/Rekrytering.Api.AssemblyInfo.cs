@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Rekrytering.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0d2e9ace4cce5c1a0b44b5ed4a338ec8ab9e7bc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22e263732a6d9211d60d0b418310f45e3b5183f8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Rekrytering.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Rekrytering.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

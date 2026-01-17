@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\khali\\OneDrive\\Dokument\\GitHub\\Rekrytering.Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8E060EAC-1979-461D-8F79-4E16FD29469E}|Rekrytering.Api\\Rekrytering.Api.csproj|c:\\users\\khali\\onedrive\\dokument\\github\\rekrytering.api\\rekrytering.api\\models\\kandidat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E060EAC-1979-461D-8F79-4E16FD29469E}|Rekrytering.Api\\Rekrytering.Api.csproj|solutionrelative:rekrytering.api\\models\\kandidat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8E060EAC-1979-461D-8F79-4E16FD29469E}|Rekrytering.Api\\Rekrytering.Api.csproj|c:\\users\\khali\\onedrive\\dokument\\github\\rekrytering.api\\rekrytering.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E060EAC-1979-461D-8F79-4E16FD29469E}|Rekrytering.Api\\Rekrytering.Api.csproj|solutionrelative:rekrytering.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E060EAC-1979-461D-8F79-4E16FD29469E}|Rekrytering.Api\\Rekrytering.Api.csproj|c:\\users\\khali\\onedrive\\dokument\\github\\rekrytering.api\\rekrytering.api\\controllers\\kandidatercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E060EAC-1979-461D-8F79-4E16FD29469E}|Rekrytering.Api\\Rekrytering.Api.csproj|solutionrelative:rekrytering.api\\controllers\\kandidatercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8E060EAC-1979-461D-8F79-4E16FD29469E}|Rekrytering.Api\\Rekrytering.Api.csproj|c:\\users\\khali\\onedrive\\dokument\\github\\rekrytering.api\\rekrytering.api\\services\\kandidattjanst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E060EAC-1979-461D-8F79-4E16FD29469E}|Rekrytering.Api\\Rekrytering.Api.csproj|solutionrelative:rekrytering.api\\services\\kandidattjanst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E060EAC-1979-461D-8F79-4E16FD29469E}|Rekrytering.Api\\Rekrytering.Api.csproj|c:\\users\\khali\\onedrive\\dokument\\github\\rekrytering.api\\rekrytering.api\\data\\applikationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E060EAC-1979-461D-8F79-4E16FD29469E}|Rekrytering.Api\\Rekrytering.Api.csproj|solutionrelative:rekrytering.api\\data\\applikationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8E060EAC-1979-461D-8F79-4E16FD29469E}|Rekrytering.Api\\Rekrytering.Api.csproj|c:\\users\\khali\\onedrive\\dokument\\github\\rekrytering.api\\rekrytering.api\\dtos\\kandidatdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,12 +23,12 @@
       "RelativeMoniker": "D:0:0:{8E060EAC-1979-461D-8F79-4E16FD29469E}|Rekrytering.Api\\Rekrytering.Api.csproj|solutionrelative:rekrytering.api\\dtos\\skapakandidatdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E060EAC-1979-461D-8F79-4E16FD29469E}|Rekrytering.Api\\Rekrytering.Api.csproj|c:\\users\\khali\\onedrive\\dokument\\github\\rekrytering.api\\rekrytering.api\\controllers\\kandidatercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E060EAC-1979-461D-8F79-4E16FD29469E}|Rekrytering.Api\\Rekrytering.Api.csproj|solutionrelative:rekrytering.api\\controllers\\kandidatercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8E060EAC-1979-461D-8F79-4E16FD29469E}|Rekrytering.Api\\Rekrytering.Api.csproj|c:\\users\\khali\\onedrive\\dokument\\github\\rekrytering.api\\rekrytering.api\\data\\applikationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E060EAC-1979-461D-8F79-4E16FD29469E}|Rekrytering.Api\\Rekrytering.Api.csproj|solutionrelative:rekrytering.api\\data\\applikationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E060EAC-1979-461D-8F79-4E16FD29469E}|Rekrytering.Api\\Rekrytering.Api.csproj|c:\\users\\khali\\onedrive\\dokument\\github\\rekrytering.api\\rekrytering.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E060EAC-1979-461D-8F79-4E16FD29469E}|Rekrytering.Api\\Rekrytering.Api.csproj|solutionrelative:rekrytering.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8E060EAC-1979-461D-8F79-4E16FD29469E}|Rekrytering.Api\\Rekrytering.Api.csproj|c:\\users\\khali\\onedrive\\dokument\\github\\rekrytering.api\\rekrytering.api\\models\\kandidat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E060EAC-1979-461D-8F79-4E16FD29469E}|Rekrytering.Api\\Rekrytering.Api.csproj|solutionrelative:rekrytering.api\\models\\kandidat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,32 +38,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "KandidatTjanst.cs",
-              "DocumentMoniker": "C:\\Users\\khali\\OneDrive\\Dokument\\GitHub\\Rekrytering.Api\\Rekrytering.Api\\Services\\KandidatTjanst.cs",
-              "RelativeDocumentMoniker": "Rekrytering.Api\\Services\\KandidatTjanst.cs",
-              "ToolTip": "C:\\Users\\khali\\OneDrive\\Dokument\\GitHub\\Rekrytering.Api\\Rekrytering.Api\\Services\\KandidatTjanst.cs",
-              "RelativeToolTip": "Rekrytering.Api\\Services\\KandidatTjanst.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "KandidaterController.cs",
+              "DocumentMoniker": "C:\\Users\\khali\\OneDrive\\Dokument\\GitHub\\Rekrytering.Api\\Rekrytering.Api\\Controllers\\KandidaterController.cs",
+              "RelativeDocumentMoniker": "Rekrytering.Api\\Controllers\\KandidaterController.cs",
+              "ToolTip": "C:\\Users\\khali\\OneDrive\\Dokument\\GitHub\\Rekrytering.Api\\Rekrytering.Api\\Controllers\\KandidaterController.cs",
+              "RelativeToolTip": "Rekrytering.Api\\Controllers\\KandidaterController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwAEAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T17:18:56.744Z",
+              "WhenOpened": "2026-01-15T17:26:48.553Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ApplikationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\khali\\OneDrive\\Dokument\\GitHub\\Rekrytering.Api\\Rekrytering.Api\\Data\\ApplikationDbContext.cs",
-              "RelativeDocumentMoniker": "Rekrytering.Api\\Data\\ApplikationDbContext.cs",
-              "ToolTip": "C:\\Users\\khali\\OneDrive\\Dokument\\GitHub\\Rekrytering.Api\\Rekrytering.Api\\Data\\ApplikationDbContext.cs",
-              "RelativeToolTip": "Rekrytering.Api\\Data\\ApplikationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "KandidatTjanst.cs",
+              "DocumentMoniker": "C:\\Users\\khali\\OneDrive\\Dokument\\GitHub\\Rekrytering.Api\\Rekrytering.Api\\Services\\KandidatTjanst.cs",
+              "RelativeDocumentMoniker": "Rekrytering.Api\\Services\\KandidatTjanst.cs",
+              "ToolTip": "C:\\Users\\khali\\OneDrive\\Dokument\\GitHub\\Rekrytering.Api\\Rekrytering.Api\\Services\\KandidatTjanst.cs",
+              "RelativeToolTip": "Rekrytering.Api\\Services\\KandidatTjanst.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T17:18:46.317Z",
+              "WhenOpened": "2026-01-15T17:26:18.881Z",
               "EditorCaption": ""
             },
             {
@@ -74,9 +74,9 @@
               "RelativeDocumentMoniker": "Rekrytering.Api\\DTOs\\KandidatDto.cs",
               "ToolTip": "C:\\Users\\khali\\OneDrive\\Dokument\\GitHub\\Rekrytering.Api\\Rekrytering.Api\\DTOs\\KandidatDto.cs",
               "RelativeToolTip": "Rekrytering.Api\\DTOs\\KandidatDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T17:18:30.332Z",
+              "WhenOpened": "2026-01-15T17:25:05.573Z",
               "EditorCaption": ""
             },
             {
@@ -87,46 +87,46 @@
               "RelativeDocumentMoniker": "Rekrytering.Api\\DTOs\\SkapaKandidatDto.cs",
               "ToolTip": "C:\\Users\\khali\\OneDrive\\Dokument\\GitHub\\Rekrytering.Api\\Rekrytering.Api\\DTOs\\SkapaKandidatDto.cs",
               "RelativeToolTip": "Rekrytering.Api\\DTOs\\SkapaKandidatDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T17:18:17.528Z",
+              "WhenOpened": "2026-01-15T17:24:42.651Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
+              "Title": "ApplikationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\khali\\OneDrive\\Dokument\\GitHub\\Rekrytering.Api\\Rekrytering.Api\\Data\\ApplikationDbContext.cs",
+              "RelativeDocumentMoniker": "Rekrytering.Api\\Data\\ApplikationDbContext.cs",
+              "ToolTip": "C:\\Users\\khali\\OneDrive\\Dokument\\GitHub\\Rekrytering.Api\\Rekrytering.Api\\Data\\ApplikationDbContext.cs",
+              "RelativeToolTip": "Rekrytering.Api\\Data\\ApplikationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T17:18:46.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Kandidat.cs",
               "DocumentMoniker": "C:\\Users\\khali\\OneDrive\\Dokument\\GitHub\\Rekrytering.Api\\Rekrytering.Api\\Models\\Kandidat.cs",
               "RelativeDocumentMoniker": "Rekrytering.Api\\Models\\Kandidat.cs",
               "ToolTip": "C:\\Users\\khali\\OneDrive\\Dokument\\GitHub\\Rekrytering.Api\\Rekrytering.Api\\Models\\Kandidat.cs",
               "RelativeToolTip": "Rekrytering.Api\\Models\\Kandidat.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-15T17:18:02.338Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "KandidaterController.cs",
-              "DocumentMoniker": "C:\\Users\\khali\\OneDrive\\Dokument\\GitHub\\Rekrytering.Api\\Rekrytering.Api\\Controllers\\KandidaterController.cs",
-              "RelativeDocumentMoniker": "Rekrytering.Api\\Controllers\\KandidaterController.cs",
-              "ToolTip": "C:\\Users\\khali\\OneDrive\\Dokument\\GitHub\\Rekrytering.Api\\Rekrytering.Api\\Controllers\\KandidaterController.cs",
-              "RelativeToolTip": "Rekrytering.Api\\Controllers\\KandidaterController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T17:08:06.608Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\khali\\OneDrive\\Dokument\\GitHub\\Rekrytering.Api\\Rekrytering.Api\\Program.cs",
               "RelativeDocumentMoniker": "Rekrytering.Api\\Program.cs",
               "ToolTip": "C:\\Users\\khali\\OneDrive\\Dokument\\GitHub\\Rekrytering.Api\\Rekrytering.Api\\Program.cs",
               "RelativeToolTip": "Rekrytering.Api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-15T17:03:43.2Z",
               "EditorCaption": ""
